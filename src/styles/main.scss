@@ -125,17 +125,17 @@ html, body {
 
                 transform: scale(1);
 
-                &::after {
-                    color: #fff;
-                    font-family: "icons-turn-arrow";
-                    font-size: 80%;
-                    line-height: 30px;
-
-                    content: "\e600";
-
-                    -webkit-font-smoothing: antialiased;
-                    -moz-osx-font-smoothing: grayscale;
-                }
+                //&::after {
+                //    color: #fff;
+                //    font-family: "icons-turn-arrow";
+                //    font-size: 80%;
+                //    line-height: 30px;
+                //
+                //    content: "\e600";
+                //
+                //    -webkit-font-smoothing: antialiased;
+                //    -moz-osx-font-smoothing: grayscale;
+                //}
 
                 &.is-inverse {
                     background-color: #555;
